@@ -12,6 +12,8 @@ In this personal project, I conducted a comprehensive analysis of a company's cu
 - Which season had the fastest deliveries?
 - Which warehouse had the fastest deliveries?
 
+## About the Data
+
 ## Methodology
 ### Data Preprocessing
 ### Exploratory Data Analysis (EDA)
