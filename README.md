@@ -13,6 +13,17 @@ In this personal project, I conducted a comprehensive analysis of a company's cu
 - Which warehouse had the fastest deliveries?
 
 ## About the Data
+An e-commerce company want to discover insights into its delivery patterns. The company collected data containing delivery transactions between January 2021 and December 2022. The dataset contains 6 columns and 9480 rows.
+
+| Column        | Description                                               | Data Type   |
+|---------------|-----------------------------------------------------------|-------------|
+| S/N           | Transaction serial number                                 | INTEGER     |
+| Warehouse     | The warehouse from which an order was deliveered          | STRING      |
+| Order Date    | The date the customer order was made                      | DATETIME    |
+| Delivery date | The date the goods ordered were delivered to the customer | DATETIME    |
+| Customer      | Customer code                                             | STRING      |
+| Zipcode       | Customer Zipcode                                          | STRING      |  
+
 
 ## Methodology
 ### Data Preprocessing
